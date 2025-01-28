@@ -178,7 +178,7 @@ h4{
       background: #e5e5e5;
   }
 }
-@media(max-width: 550px){
+@media(max-width: 600px){
   .headercontainer{
       flex-direction: column;
       flex-wrap: wrap;
